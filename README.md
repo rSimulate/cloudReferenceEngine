@@ -1,4 +1,4 @@
-cloudReferenceEngine
-====================
+terrainReferenceEngine
+======================
 
-A MetaSim Cloud Reference Engine
+A MetaSim Terrain Reference Engine
